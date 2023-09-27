@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923086679730', 'KAMI-BROKEN', true],
+  ['923164522803', '★彡[ ᴀʟɪ ʙʜᴀᴛᴛɪ ]彡★', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['923086679730','923086679730'] 
+global.mods = ['923164522803','923164522803'] 
 global.prems = ['923086679730', '923086679730', '923086679730']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'KAMI-BROKEN'
+global.botname = '★彡[ ᴀʟɪ ʙʜᴀᴛᴛɪ ]彡★'
 global.premium = 'true'
-global.packname = 'KAMI-BROKEN🎯KAMI-BROKEN☘️' 
-global.author = 'KAMI BROKEN'
+global.packname = '★彡[ ᴀʟɪ ʙʜᴀᴛᴛɪ ]彡★🎯★彡[ ᴀʟɪ ʙʜᴀᴛᴛɪ ]彡★☘️' 
+global.author = '★彡[ ᴀʟɪ ʙʜᴀᴛᴛɪ ]彡★'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
